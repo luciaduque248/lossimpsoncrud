@@ -1,0 +1,143 @@
+{
+  "characters": [
+    {
+      "id": 1,
+      "nombre": "Homero",
+      "apellido": "Simpson",
+      "completo": "Homero Jay Simpson",
+      "padres": "Abraham Simpson y Mona Simpson",
+      "nacimiento": "12 de mayo de 1980",
+      "foto": "https://indiehoy.com/wp-content/uploads/2021/03/homero-simpson.jpg",
+      "perfil": "Es el personaje principal de la serie animada de televisión Los Simpson. \\n Homero es una sátira de los norteamericanos promedio, en palabras de su mismo creador Matt Groening. Las bromas indirectas se pueden encontrar en su personalidad, su actitud, su filosofía, su idiosincrasia, etc."
+    },
+    {
+      "id": 2,
+      "nombre": "Marges",
+      "apellido": "Simpson",
+      "completo": "Marjorie (Marge) Jaqueline Bouvier Simpson",
+      "padres": "Clancy Bouvier (Fallecido) y Jacqueline Bouvier",
+      "nacimiento": "19 de marzo de 1954",
+      "foto": "https://64.media.tumblr.com/363e35f917bb57b1e6c4247dec673a31/tumblr_inline_p0ajap4dg81s7vi9z_640.jpg",
+      "perfil": "Es uno de los personajes principales de la serie animada Los Simpson. es la esposa de Homero Simpson, y madre de 3 hijos llamados: Bart Simpson de 10 años, Lisa Simpson de 8 y Maggie Simpson."
+    },
+    {
+      "id": 3,
+      "nombre": "Bart",
+      "apellido": "Simpson",
+      "completo": "Bartolomeo Jay Simpson Bouvier",
+      "padres": "Homero Simpson y Marge Simpson",
+      "nacimiento": "23 de febrero 1980",
+      "foto": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2019/09/bart-simpson.jpg?itok=2g0KxGmW",
+      "perfil": "Es uno de los personajes principales de la serie animada Los Simpson. Bart es decididamente el más rebelde y travieso de la familia. Es un muchacho simpático y también muy travieso, que hace muchas bromas con su mejor amigo Milhouse. La serie ha abierto una paradoja temporal en el que Homero y Bart tendrían la misma edad."
+    },
+    {
+      "id": 4,
+      "nombre": "Lisa",
+      "apellido": "Simpson",
+      "completo": "Lisa Marie Simpson",
+      "padres": "Homero Simpson y Marge Simpson",
+      "nacimiento": "9 de mayo de 1981",
+      "foto": "https://www.laprensa.hn/binrepository/1020x638/0c29/1020d580/none/11004/TLVE/lisa-simpson-the-simpsons_102635401_LP758250_MG79163955.jpg",
+      "perfil": "A veces llamada Liz por su hermano Bart. Es un personaje principal de la serie de televisión animada Los Simpson. Lisa Simpson representa la incansable activista frustrada, ha servido como estandarte para causas ecológicas, y tambien una defensora de causas feministas es el vehículo para proyectar la serie hacia nuevas ideologías y religiones orientales; por lo que es considerada como el centro ético y moral de la Familia Simpson."
+    },
+    {
+      "id": 5,
+      "nombre": "Maggie",
+      "apellido": "Simpson",
+      "completo": "Margaret (Maggie) Abigail Simpson Bouvier",
+      "padres": "Homero Simpson y Marge Simpson",
+      "nacimiento": "19 de abril de 1988",
+      "foto": "https://cdn-e360.s3-sa-east-1.amazonaws.com/los-simpson-razones-que-confirman-por-que-maggie-es-el-personaje-mas-oscuro-large-0uH6HnxIU3.jpg",
+      "perfil": "Margaret Simpson, conocida como Maggie Simpson, es la tercera hija del matrimonio protagonista, Homero y Marge Simpson, y la más joven de ellos. Sus hermanos mayores son Bart y Lisa Simpson. Maggie tiene una gran capacidad de comunicación y a pesar de ser un bebe, ha demostrado ser muy inteligente. Maggie representa el papel de un bebé desatendida en una familia disfuncional, que ha tenido que desarrollar una forzada autosuficiencia. "
+    },
+    {
+      "id": 6,
+      "nombre": "Ned",
+      "apellido": "Flanders",
+      "completo": "Nedward (Ned) Flanders",
+      "padres": "Monasterio God y Nedward Flanders Sr.",
+      "nacimiento": "Desconocida",
+      "foto": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2015/05/14/5fa283960061f.jpeg",
+      "perfil": "Ned es viudo. Vive en la casa de al lado de la familia Simpson, por lo tanto es su vecino. Normalmente es odiado por Homer Simpson, que lo define como peor que Monstruo de Frankenstein y el Dr. No. Es un cristiano devoto y es el más amigable y compasivo de todos los habitantes de Springfield, considerado normalmente como uno de los pilares de su comunidad."
+    },
+    {
+      "id": 7,
+      "nombre": "Abraham",
+      "apellido": "Simpson",
+      "completo": "Abraham Jedadiya Simpson",
+      "padres": "Orville Simpson y Yuma Hickman",
+      "nacimiento": "29 de agosto de 1906",
+      "foto": "https://media.revistagq.com/photos/5ea2aa558368a10008af3324/master/w_1280,h_720,c_limit/abe-simpson.jpg",
+      "perfil": "Abraham Simpson es el abuelo paterno de la familia protagonista, bastante despreciado por sus seres queridos y marginado por su condición de adulto mayor. Su rol en la serie es generalmente auxiliar: cuida de los niños cuando no tienen con quien estar por el motivo de que nadie quiere cuidar a los niños Simpson, motiva la trama de varios episodios por temporada y sustenta algunos de los chistes más crueles sobre la ancianidad."
+    },
+    {
+      "id": 8,
+      "nombre": "Mona",
+      "apellido": "Simpson",
+      "completo": "Mona Penelope Janet Simpson",
+      "padres": "Jay Olsen y Janet Olsen",
+      "nacimiento": "14 de Octubre de 1928-11 de mayo de 2008",
+      "foto": "https://elcomercio.pe/resizer/O8NMtIEAgnAn5ITvgqfWfkMD_VI=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/APHKJNSM3VHHZMZGBLUJTVJO24.jpg",
+      "perfil": "Apellido de soltera Olsen. Ella fue la madre de Homero Simpson,la esposa de Abraham Simpson y la tia de Jessica Simpson. Él le había dicho a Homero cuando fue un niño que ella había muerto"
+    },
+    {
+      "id": 9,
+      "nombre": "Jacqueline",
+      "apellido": "Bouvier",
+      "completo": "Madame Jacqueline Ingrid Bouvier ",
+      "padres": "Ferdinand Gurney y Alvarine Bisque",
+      "nacimiento": "Desconocido",
+      "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2fng6JAf0fVZ0jCJrigpODaVlEC6wRlUjgQ&usqp=CAU",
+      "perfil": "Es un personaje secundario de la serie animada Los Simpson. Es la madre de Marge, Patty y Selma, por tanto es la abuela de Bart, Lisa y Maggie y la suegra de Homer Simpson, su marido se llama Clancy Bouvier, tenía una hermana llamada Gladys. El nombre del personaje es una referencia a Jacqueline Kennedy Onassis, cuyo apellido de soltera era de hecho, Bouvier. Ella crió a su hija Marge Simpson porque su esposo Clancy Bouvier fue a un vuelo de aviones."
+    },
+    {
+      "id": 10,
+      "nombre": "Milhouse",
+      "apellido": "Houten",
+      "completo": "Milhouse Van Houten",
+      "padres": " Kirk Van Houten y Luann Van Houten",
+      "nacimiento": "Desconocido",
+      "foto": "https://www.clarin.com/img/2020/07/12/a-milhouse-lo-acosan-por___4jeebcaZy_1200x630__1.jpg",
+      "perfil": "Milhouse, como todo niño, va a la Escuela Primaria de Springfield, en la que es agredido diariamente por los bravucones de la escuela, Jimbo, Dolph y Kearney; es agredido por mucha gente como Nelson, y hasta ha sido agredido por Lisa en Lard of the Dance, See Homer Run y The Last of the Red Hat Mamas."
+    }
+  ],
+  "places": [
+    {
+      "id": 1,
+      "lugar": "Springfield",
+      "foto": "https://www.ngenespanol.com/wp-content/uploads/2018/08/Descubre-qu%C3%A9-ciudad-fue-fuente-de-inspiraci%C3%B3n-del-verdadero-Springfield.png",
+      "perfil": "Springfield es el centro de la serie y hogar de la familia Simpson. Está ubicada cerca de Shelbyville. Fundado en 1796 por Jebediah Springfield, Springfield es una pequeña ciudad con una planta nuclear, varias escuelas, una gran variedad de vecinos ricos y pobres, la taberna de Moe, el Bowl-A-Rama y el Kwik-E-Mart. Es también la sede de los cuarteles mundiales de la azucarera Motherloving (Madre amorosa, en América Latina; Madreamantísima, en España).",
+      "nombre": ""
+    },
+    {
+      "id": 2,
+      "lugar": "Shelbyville",
+      "foto": "https://elcomercio.pe/resizer/8WCExVxXWt-oczoOO73V83GnXi4=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/SW2GZYSZKVBJ3FT6BMS4FIX6PU.jpg",
+      "perfil": "Shelbyville es la ciudad vecina y rival de Springfield. Fue fundada en 1796 por Shelbyville Manhattan, quién abogó al derecho de casarse con sus primas, causando un desacuerdo con Jebediah Springfield, por lo que ambos tomaron caminos diferentes. La intensa rivalidad entre ambas ciudades continúa hasta estos días, especialmente en el capítulo de la sexta temporada El limonero de Troya, en el cual los residentes de Shelbyville roban un preciado limonero desde Springfield. También en el capítulo Who Shot Mr. Burns? cuando los habitantes de Springfield destruyen la máquina de Burns, esta cae por las faldas del cerro, destruyendo un poblado. Luego, alguien pregunta ¿Qué pueblo hemos destruido?, a lo que Skinner responde Shelbyville, y todo el mundo empieza a festejar. En varios episodios, particularmente en El limonero de Troya, se sugiere que Shelbyville es un universo paralelo a Springfield."
+    },
+    {
+      "id": 3,
+      "lugar": "Capital City",
+      "foto": "https://res.cloudinary.com/colombia/image/upload/v1654270924/kuepa/los%20simpson/latest_bzvovz.png",
+      "perfil": "Capital City (Ciudad Capital en Hispanoamérica, mientras que en España, según el episodio se usa una u otra denominación), es la capital y la ciudad más importante del estado donde se ubica Springfield. Es el principal centro urbano del estado, siendo sede de eventos deportivos, convenciones y conferencias de las Naciones Unidas. Conocida por su apodo, La manzana del viento, derivado de los apodos de Nueva York (La gran manzana) y de Chicago (La ciudad del viento). Entre sus principales industrias están la sede de la cervecería Duff, el puente colgante, el estadio, el anfiteatro y la intersección de las calles 4th y D."
+    },
+    {
+      "id": 4,
+      "lugar": "Cypress Creek",
+      "foto": "https://res.cloudinary.com/colombia/image/upload/v1654270988/kuepa/los%20simpson/latest_cryc0n.png",
+      "perfil": "Cypress Creek (Arroyo Ciprés en Hispanoamérica) es una utópica ciudad que aparece en el capítulo Sólo se muda dos veces, un episodio de la octava temporada. Es una ciudad-satélite donde viven los empleados de Globex. Los Simpson se mudan allí porque Homer acepta un empleo en la empresa. Luego ve que su familia es infeliz viviendo en Cypress Creek (Homer nunca se entera que su jefe es un super genio maligno que trata de conquistar el este de EE. UU.), por lo que deja su empleo y vuelve a Springfield, donde ve que Hank Scorpio (jefe de Globex) le da como regalo a los Denver Broncos."
+    },
+    {
+      "id": 5,
+      "lugar": "Humbleton, Pensilvania",
+      "foto": "https://i.ytimg.com/vi/zpK1DRJxhI0/maxresdefault.jpg",
+      "perfil": "Humbleton, Pennsylvania es una ciudad ficticia que aparece en el capítulo de la temporada 16 Home Away from Homer. Es conocida como El hogar de las estatuillas Humbleton o humildes, las cuales colecciona Ned Flanders. Es también el lugar donde se mudan Flanders y sus hijos, luego de un bochornoso incidente en el que se vio involucrado con dos estudiantes universitarias que se hospedaban en la casa de Ned, las cuales subían videos pornográficos desde una habitación."
+    },
+    {
+      "lugar": "Kwik-E-Mart",
+      "foto": "https://www.allcitycanvas.com/wp-content/uploads/2018/08/simpsons-1-1280x720.jpg",
+      "perfil": "El Kwik-E-Mart (El Badulaque en España y El Mini-súper en Hispanoamérica) es una tienda de conveniencia ficticia en la serie animada Los Simpson.\n\nEl local es administrado y atendido por Apu Nahasapeemapetilon. Es donde Homer Simpson suele ir a comprar. Vende alimentos con grandes cantidades de grasa, de azúcar y colesterol. No tiene productos saludables y la mayoría de los alimentos y de las bebidas están en malas condiciones, caducados y con precios altísimos.1​ A pesar de todo, el Kwik-E-Mart es una buena tienda y la familia suele comprar allí (menos en el capítulo Homer y Apu, donde despiden a Apu y para no molestarle van a comprar al Monstromart).",
+      "id": 6
+    }
+  ]
+}

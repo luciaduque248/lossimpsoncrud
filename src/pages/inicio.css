@@ -1,0 +1,10 @@
+.video{
+    margin-top: -1rem;
+}
+
+.fondoSimpson{
+    background-image: url(https://fondosmil.com/fondo/25194.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 50vw;
+}
